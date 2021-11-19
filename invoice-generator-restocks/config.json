@@ -1,0 +1,14 @@
+{
+    "email": "restocks-email@gmail.com",
+    "password": "RestocksPassword",
+    "restocks_region": "nl",
+    "personal_name": "FULL NAME",
+    "company_name": "COMPANY NAME",
+    "address": "STREETNAME NUMBER",
+    "postal_code": "POSTALCODE",
+    "city": "CITT",
+    "country": "COUNTRY",
+    "vat_business_id": "BUSINESS ID",
+    "vat_percentage": 19, 
+    "currency": "€"
+}
