@@ -1,6 +1,7 @@
 # Restocks Invoice Tool
 
 Generates invoices out of your [restocks.net](https://restocks.net/) account, handy for doing taxes.
+*Only works for € transactions for now*
 
 *Inspired by [1111moritz](https://github.com/1111moritz/restocks-invoices), all credits to him.*
 ## Installation
