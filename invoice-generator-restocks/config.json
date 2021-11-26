@@ -6,7 +6,7 @@
     "company_name": "COMPANY NAME",
     "address": "STREETNAME NUMBER",
     "postal_code": "POSTALCODE",
-    "city": "CITT",
+    "city": "CITY",
     "country": "COUNTRY",
     "vat_business_id": "BUSINESS ID",
     "vat_percentage": 19, 
